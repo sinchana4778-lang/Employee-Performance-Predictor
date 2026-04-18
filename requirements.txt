@@ -1,6 +1,5 @@
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
